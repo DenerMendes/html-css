@@ -1,0 +1,7 @@
+main{
+    margin: auto;
+    width: 600px;
+    text-align: justify;
+    padding: 10px;
+    flex-direction: column;
+}
