@@ -3,5 +3,5 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- <a href="HTML-CSS/desafio10.03./android.html">Abrir o exercicio 10.03</a>;
+<a href="https://github.com/DenerMendes/html-css/tree/main/exercicios/desafio10.03/android.html">Executar o desafio10.03</a>
  
