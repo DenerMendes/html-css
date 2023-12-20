@@ -1,18 +1,59 @@
-.quadrado{
-    width: 300px;
-    height: 300px;
-    border: 2px solid black;
-    display: inline-block;
+
+
+main{
+    max-width: 900px;
+    min-width: 400px;
+    margin: auto;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(0, 0, 255, 0));
+    padding: 20px;
+    border: 20px;
 }
 
-#q1{
+header{
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(0, 0, 255, 0.322));
+    text-align: center;
+}
+
+header > p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    
+}
+
+nav{
+    padding: 10px;
+}
+
+nav > a{
+    color: rgba(0, 0, 255, 0.574);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    transition-duration: 0.5s;
+    
+}
+
+nav > a:hover{
+    color: green;
     background-color: black;
+    
 }
 
-#q2{
-    background-color: green;
+body{
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.34), rgba(0, 0, 255, 0));
 }
 
-#q3{
-    background-image: url(./imagens/wallpaper002.jpg);
+footer{
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.34), rgba(0, 0, 255, 0.322));
+    color: white;
+}
+
+h2{
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.346), rgba(255, 0, 0, 0.18));
+}
+
+h1{
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.346), rgba(255, 0, 0, 0.18));
 }
